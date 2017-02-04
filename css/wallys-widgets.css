@@ -37,6 +37,8 @@ h2 {
 		
 h3 {	
 		color: #CC0C00;
+		background-color: #ddd;
+		padding: 5px 5px 5px 0;
 		}
 
 table {
@@ -55,6 +57,12 @@ table td {
 
 ul li {
 	font-weight: bold;
+}
+
+p.warning {
+	background-color: #ddd;
+	padding: 5px 5px 5px 0;
+	color: #CC0C00;
 }
 
 p.footer {

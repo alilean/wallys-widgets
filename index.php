@@ -96,7 +96,7 @@ if(isset($_POST['widgets'])) {
 	## Check if valid value is entered in the widgets field
 	if(!is_numeric($widgetValue)) {
 		
-		$feedback = "<p>Please enter a numeric value</p>";
+		$feedback = "<p class=\"warning\">Please enter a numeric value</p>";
 		
 	} else {
 
