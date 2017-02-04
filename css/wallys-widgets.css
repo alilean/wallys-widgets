@@ -8,6 +8,10 @@ body {
         color: #000;
     	}
 		
+div.body {
+	margin-left: 10px;
+}
+		
 body a {
         color: #096BC7;
 		text-decoration: none;
