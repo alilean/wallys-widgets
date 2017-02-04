@@ -1,0 +1,60 @@
+/* CSS Document */
+
+body {
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 80%;
+        line-height: 1.3em;
+        color: #000;
+    	}
+		
+body a {
+        color: #096BC7;
+		text-decoration: none;
+		font-weight: bold;
+    	}
+		
+body a:hover {
+		text-decoration:underline;
+		}
+	
+h1 {
+		color: #CC0C00;
+		border-bottom: 2px solid black;
+		margin-bottom 10px;
+		padding: 10px;
+		background-color: #ddd;
+		}
+		
+h2 {	
+		color: #CC0C00;
+		font-weight:bold;
+		}
+		
+h3 {	
+		color: #CC0C00;
+		}
+
+table {
+		border: 1px solid black;
+		margin-bottom: 10px;
+		padding: 2px;
+		}
+		
+table th {
+		background-color: #ddd;
+}
+
+table td {
+		border-top: 1px solid #ccc;
+}
+
+ul li {
+	font-weight: bold;
+}
+
+p.footer {
+	border-top: 1px solid #bbb;
+	font-size: 10px;
+	margin-top: 25px;
+}
